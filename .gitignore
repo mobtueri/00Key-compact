@@ -3,5 +3,5 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
-./pcb/kicad/#auto_saved_files#
-./pcb/kicad/00Key-backups
+pcb/kicad/#auto_saved_files#
+pcb/kicad/00Key-backups/
